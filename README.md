@@ -1,6 +1,6 @@
 # What is this?
-geocatの雑記帳
+geocat's note
 ## localhost
-localhostを動かすPythonコード　載せる意味は特にないですが一応
+Python code to run the local host.There is no need to put it, but it seems convenient to have it.
 ## study
-勉強したものを載せます。
+There is no need to put it, but it seems convenient to have it.
